@@ -1,2 +1,2 @@
-.terraform.lock.hcl
-variables.tf
+.terraform.lock.hcl/
+variables.tf/
